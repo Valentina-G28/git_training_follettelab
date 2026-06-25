@@ -6,5 +6,6 @@ Add your name or pseudonym here, and write something fun about yourself which us
 1. Nat Kerman (The *operant* **joke** here being that I am old `XD`)
 
 ## 2026
+* Nat (*Because* I'm a **lifelong** `learner`!)
 
 <!-- Make a new year as necessary -->
