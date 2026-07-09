@@ -10,6 +10,7 @@ plt.plot(x, y, "o-", color="magenta", label='Data points')
 plt.xlabel("x-axis")
 plt.ylabel("y-axis")
 plt.title("What a nice plot!")
+plt.legend()
 
 plot_dir = Path("plots")
 plot_dir.mkdir(exist_ok=True)
