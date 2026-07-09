@@ -7,8 +7,6 @@ Add your name or pseudonym here, and write something fun about yourself which us
 
 ## 2026
 * Nat (*Because* I'm a **lifelong** `learner`!)
-
-## 2026
-* Nini (Hello world!)
+* Nini (***Hello world!***)
 
 <!-- Make a new year as necessary -->
