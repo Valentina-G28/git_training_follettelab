@@ -7,6 +7,6 @@ Add your name or pseudonym here, and write something fun about yourself which us
 
 ## 2026
 * Nat (*Because* I'm a **lifelong** `learner`!)
-*Julia*
+*Julia* (I am so **happy** to learn 'GitHub'!)
 
 <!-- Make a new year as necessary -->
